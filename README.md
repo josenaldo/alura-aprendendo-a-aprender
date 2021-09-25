@@ -1,4 +1,4 @@
-# Aprenendo a aprender
+# Aprendendo a aprender
 
 Anotações do Curso curso Aprendendo a Aprender, da Alura.
 
