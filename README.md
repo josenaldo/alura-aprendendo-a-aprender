@@ -4,7 +4,7 @@ Anotações do Curso curso Aprendendo a Aprender, da Alura.
 
 ## Atenção
 
-Por enquanto, o [StackEdit](https://stackedit.io/) está tendo problemas para processar a autenticação do Github. Até que esse problema seja resolvido, segue a gambiarra fornecida p:
+Por enquanto, o [StackEdit](https://stackedit.io/) está tendo problemas para processar a autenticação do Github. Até que esse problema seja resolvido, segue a gambiarra fornecida pelo usuário [@mogoe](https://github.com/benweet/stackedit/issues/1755#issuecomment-918949789) em :
 
 ```js
 window.XMLHttpRequest =  class MyXMLHttpRequest extends window.XMLHttpRequest {
@@ -33,5 +33,6 @@ window.XMLHttpRequest =  class MyXMLHttpRequest extends window.XMLHttpRequest {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNDcxNjYwMCwtMjAyOTUyMTM0OV19
+eyJoaXN0b3J5IjpbMjEyNTMyMzE1MywxNTA0NzE2NjAwLC0yMD
+I5NTIxMzQ5XX0=
 -->
