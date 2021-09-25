@@ -4,7 +4,7 @@ Anotações do Curso curso Aprendendo a Aprender, da Alura.
 
 ## Atenção
 
-Se o StackEdit der pau
+Por enquanto, o [StackEdit](https://stackedit.io/) der pau
 
 ```js
 window.XMLHttpRequest =  class MyXMLHttpRequest extends window.XMLHttpRequest {
@@ -33,5 +33,5 @@ window.XMLHttpRequest =  class MyXMLHttpRequest extends window.XMLHttpRequest {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NTYyNzcwNl19
+eyJoaXN0b3J5IjpbLTIwMjk1MjEzNDldfQ==
 -->
